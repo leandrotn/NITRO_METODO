@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.8.0",
+    "discord.js-self": "^12.0.4"
+  }
+}
